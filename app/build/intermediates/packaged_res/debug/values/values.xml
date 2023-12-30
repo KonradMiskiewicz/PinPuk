@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="Add_New">Dodaj Karte</string>
+    <string name="NrTel">NrTel</string>
+    <string name="Nr_karty">Nr_karty</string>
+    <string name="Pin">Pin</string>
+    <string name="Puk">Puk</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="app_name">PinPuk</string>
+    <string name="delete">Usun karte</string>
+    <string name="deleteRecord">Are you sure, you want to delete it.</string>
+    <string name="edit">Edytuj Karte</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="konwoj">KONWOJ</string>
+    <string name="mgpo">MGPO</string>
+    <string name="no">No</string>
+    <string name="save">Zapisz</string>
+    <string name="title_activity_display_contact">DisplayContact</string>
+    <string name="yes">Yes</string>
+    <style name="Base.Theme.PinPuk" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.PinPuk" parent="Base.Theme.PinPuk"/>
+</resources>
